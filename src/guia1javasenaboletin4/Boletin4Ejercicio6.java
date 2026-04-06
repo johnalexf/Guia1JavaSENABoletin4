@@ -34,8 +34,8 @@ public class Boletin4Ejercicio6 {
         for( int i=0; i < cantNumeros/guardarDeA; i++ ){
         
             for( int j=0; j < guardarDeA ; j++){
-                System.out.println(2*guardarDeA*i + j);
-                System.out.println(2*guardarDeA*i  + guardarDeA + j);
+                //System.out.println(2*guardarDeA*i + j);
+                //System.out.println(2*guardarDeA*i  + guardarDeA + j);
                 numerosMezcla[2*guardarDeA*i + j] = numeros[0][guardarDeA*i + j];
                 numerosMezcla[2*guardarDeA*i + guardarDeA + j] = numeros[1][guardarDeA*i + j];
                 
