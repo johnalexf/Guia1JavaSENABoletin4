@@ -40,7 +40,7 @@ public class Boletin4Ejercicio5 {
         }
         
         
-        System.out.println("La tabla con los datos mezclados y en el orden solicitados es:");
+        System.out.println("\n La tabla con los datos mezclados y en el orden solicitados es:");
         
         for(int i=0; i< numerosMezcla.length ; i++){
             System.out.printf("%d %n", numerosMezcla[i]);
