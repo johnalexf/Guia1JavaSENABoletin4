@@ -17,7 +17,8 @@ public class Guia1JavaSENABoletin4 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        Boletin4Ejercicio1.solucion();
+        //Boletin4Ejercicio1.solucion();
+        Boletin4Ejercicio2.solucion();
         
     }
     
