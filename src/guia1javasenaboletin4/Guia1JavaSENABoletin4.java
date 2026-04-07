@@ -29,7 +29,8 @@ public class Guia1JavaSENABoletin4 {
         //Boletin4Ejercicio10.solucion();
         //Boletin4Ejercicio11.solucion();
         //Boletin4Ejercicio12.solucion();
-        Boletin4Ejercicio13.solucion();
+        //Boletin4Ejercicio13.solucion();
+        Boletin4Ejercicio14.solucion();
         
     }
     
